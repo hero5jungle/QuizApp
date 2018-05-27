@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Android Quiz App</string>
+    <!--Quizzes-->
+    <string name="quiz_1">Who let the dogs out?</string>
+    <string name="quiz_2">What are those?</string>
+    <string name="quiz_3">What does the fox say?</string>
+    <string name="quiz_4">What was the question again...?</string>
+    <string name="quiz_5">Hello, is it me you\'re looking for?</string>
+
+    <!--Answers Quiz 1-->
+    <string name="answer_1_a">yu</string>
+    <string name="answer_1_b">mi</string>
+    <string name="answer_1_c">snoop</string>
+    <string name="answer_1_d">Michael Vick</string>
+
+    <!--Answers Quiz 2-->
+    <string name="answer_2_a">shoe</string>
+    <string name="answer_2_b">crocs</string>
+    <string name="answer_2_c">sandals</string>
+    <string name="answer_2_d">abomination</string>
+
+    <!--Answers Quiz 3-->
+    <string name="answer_3_a">moo</string>
+    <string name="answer_3_b">quack</string>
+    <string name="answer_3_c">meao</string>
+    <string name="answer_3_d">no one knows</string>
+
+    <!--Answers Quiz 4-->
+    <string name="answer_4_a">To be or Not to be</string>
+    <string name="answer_4_b">Pepsi or Coke</string>
+    <string name="answer_4_c">Nvidia or AMD</string>
+    <string name="answer_4_d">Windows or Mac</string>
+
+    <!--Answers Quiz 4-->
+    <string name="answer_5_a">\No</string>
+    <string name="answer_5_b">\No</string>
+    <string name="answer_5_c">\No</string>
+    <string name="answer_5_d">\I\'m getting a restraint order</string>
+
+    <!--Submit Button-->
+    <string name="submit">Click Here To See Your Score</string>
+    <string name="score1">Your score is</string>
+    <string name="score2">out of 7.</string>
+
+    <!--EditText Question-->
+    <string name="hint">What is my favorite color?</string>
+    <string name="favColor">red</string>
+    <string name="reset">Reset</string>
+
+    <!--CheckBox Question-->
+    <string name="bird">What is the word?</string>
+    <string name="answer">bird</string>
+    <string name="answer2">bird</string>
+    <string name="answer3">bird</string>
+    <string name="answer4">bird</string>
+</resources>
+
